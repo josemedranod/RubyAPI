@@ -1,0 +1,7 @@
+runtime: python39
+
+env_variables:
+  CLOUD_SQL_USERNAME: rest_user
+  CLOUD_SQL_PASSWORD: 666
+  CLOUD_SQL_DATABASE: superhero
+  CLOUD_SQL_CONNECTION_NAME: sound-arcade-367913:us-central1:api-rest
